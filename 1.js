@@ -5,3 +5,6 @@ const balance=300
 
 const account=230
 const ak=234
+function update(){
+    balance+=12
+}
