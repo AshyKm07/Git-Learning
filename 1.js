@@ -13,3 +13,9 @@ function update(){
 update();
 console.log(balance)
 console.log("Ashish is boss")
+
+
+function showage(){
+    console.log(age)
+}
+showage();
