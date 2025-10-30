@@ -15,7 +15,7 @@ console.log(balance)
 console.log("Ashish is boss")
 
 
-function showage(){
-    console.log(age)
+function showage(val){
+    console.log(age+val)
 }
-showage();
+showage(10);
