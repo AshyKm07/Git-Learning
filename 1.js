@@ -12,3 +12,4 @@ function update(){
 }
 update();
 console.log(balance)
+console.log("Ashish is boss")
