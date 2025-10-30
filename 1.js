@@ -5,10 +5,10 @@ const balance=300
 
 const account=230
 const ak=234
+
+console.log("hello")
 function update(){
-    balance+=12
+    balance+=30
 }
-while(true)
-{
-    console.log("Hoio");
-}
+update();
+console.log(balance)
