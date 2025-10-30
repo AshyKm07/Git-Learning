@@ -1,6 +1,6 @@
 let ashish="bdfkjndfkjnv"
 const name="Rohit"
-const age=20
+const age=390
 const balance=300
 
 const account=230
@@ -18,4 +18,8 @@ console.log("Ashish is boss")
 function showage(val){
     console.log(age+val)
 }
-showage(10);
+showage();
+function showname(){
+    console.log(name)
+}
+showname();
