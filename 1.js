@@ -23,3 +23,7 @@ function showname(){
     console.log(name)
 }
 showname();
+const beta=20;
+function betajii(){
+    console.log(beta);
+}
